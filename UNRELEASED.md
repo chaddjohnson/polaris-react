@@ -6,6 +6,8 @@ Use [the changelog guidelines](https://git.io/polaris-changelog-guidelines) to f
 
 ### Enhancements
 
+- Added `zIndexOverride` prop to `Popover` ([#3937](https://github.com/Shopify/polaris-react/pull/3937))
+
 ### Bug fixes
 
 - Ensured `@charset` declaration is the first thing in our styles.css file ([#4019](https://github.com/Shopify/polaris-react/pull/4019))
